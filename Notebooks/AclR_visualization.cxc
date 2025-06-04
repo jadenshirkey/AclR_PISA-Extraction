@@ -1,0 +1,5 @@
+open C:\Users\shirk\Documents\Github\AclR\Structural-files\NUMBERED-CORRECTLY\AclR-w-C8-ACL_Phil2.pdb
+select /A:48
+color red /A:48
+color yellow :501
+zoom sel
